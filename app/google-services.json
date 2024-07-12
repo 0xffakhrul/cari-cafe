@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927587289053",
+    "project_id": "user-caricafe",
+    "storage_bucket": "user-caricafe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927587289053:android:71461c7cb79fa54bbb9834",
+        "android_client_info": {
+          "package_name": "com.example.cafe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKSyJRHpLaKiWmFpOPTAxfhH-7LswrxFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
